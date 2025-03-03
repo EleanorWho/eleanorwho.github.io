@@ -12,4 +12,4 @@ tags: []
 目前想要加入fediverse但还不会操作，以后慢慢调。
 
 先请大家看猫——
-![tutuPic](/_posts/images/20250303/tutuAbout.png){: width="972" height="589" .w-75 .normal}
+![tutuPic](assets/img/post_img/20250303/tutuAbout.png){: width="972" height="589" .w-75 .normal}
